@@ -12,6 +12,8 @@ Third, in my mind, I am also able to make unique decision trees wich lead to nov
 
 That leads me to believe that I have power, and I have experienced consequences from my own and others blind and/or self-serving use of it, therefore I have a responsiblity to learn how to use it well.
 
+I have been given a violin, what do I play?
+
 ## Assumptions about our World
 
 The current logical assumption is that nothing is free, everything requires struggle. Life costs energy.
