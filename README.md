@@ -1,18 +1,48 @@
-# Flowerpunk
+# Solar Enlightenment
 
+## Assumptions about Power
 ### With great power comes great responsibility
-
 How do I wield my great power responsibly?
 
-I first assume that I am nothing special, that being able to hold myself over a bug does not make it so. I have no inherent right to continue existing.
+I first assume that I am nothing special, that being able to hold myself over a bug does not make it so. I have no right to continue existing at the expense of another.
 
-Secondly, I assume that I was not put here by mistake. There was a unique decision tree involved in creating life on this planet, guided by factors that would be put in place by the choice of who/whatever created this universe. If the universe shat itself into existence, then regardless of its ability to make choices those were the choices it made or didn't make. As some are happy to point out, not deciding is also deciding. 
+Secondly, I assume that there was a unique decision tree involved in creating life on this planet, guided by factors that would be put in place by the choice of who/whatever created this universe. If the universe shat itself into existence, then regardless of its ability to make choices those were the choices it made or didn't make. As some are happy to point out, not deciding is also deciding. 
 
-Third, As a human, I am also able to make unique decision trees wich lead to novel choices. I classify that as Limited Divinity, not making the mistake of likening myself to the thing responsible for my creation, for clearly I am not.
+Third, in my mind, I am also able to make unique decision trees wich lead to novel choices, as history has shown, to the detriment of others in favor of myself.
 
-That leads me to believe that I have power, and there are consequences to weilding it blindly and/or in self-service, therefore I have a responsiblity to learn how to use it well.
+That leads me to believe that I have power, and I have experienced consequences from my own and others blind and/or self-serving use of it, therefore I have a responsiblity to learn how to use it well.
+
+## Assumptions about our World
+
+The current logical assumption is that nothing is free, everything requires struggle. Life costs energy.
+
+I assume that everything is **available**, through hard work. Technology and human ingenuity make it so. But these too have their own costs.
+
+I assume we would all like to watch the heat death of the universe.
+
+I assume that requires me to make different, dare I say sustainable, or even regenerative life choices.
+
+I assume that will be very difficult, as I quite enjoy driving a car, leaving my lights on while at home, playing video games, eating meat, etc., etc.
+
+I also assume that there *is* a way to have all of these things, maybe not in their current form, but definitely in way that doesn't consume my world or harm my neighbors in the way that greed *will*.
+
+I assume that this is a coordination problem, not a scarcity problem. People starve to death in Gaza while we spend money on weight loss drugs.
+
+Therefore, I assume that if everyone got together and decided "how do we make this work for all of us" that we could fucking do it.
+
+I also assume that the powers that be are incentivized to stop this from happening, which is likely why it hasn't.
+
+So I assume we must build it ourselves. And I assume we will be attacked at every turn.
+
+I assume I will be marched onto a soccer field at some point by the CIA, which means open-sourcing this is the logical move.
+
+The weeds I have planted in the garden, against all explanation, will never stop coming back, no matter how hard the establishment tries to burn them away.
+
+You can kill a man, but not a raging moron.
 
 ---
+
+### Non-canon spit ballin, but still banger
 
 I then consider why life sucks, and why we continue to make it that way.
 
@@ -50,7 +80,7 @@ There is life created by the earth, then there is life sanctuaried on the earth.
 
 The earth gives you fruit, berries, literally begging you to consume them. The animals beg you to not consume them.
 
-Animals adapt to their environment, Humans adapt the environment to themselves. This insinuates we have a responsibility that comes with that power.
+Animals adapt to their environment, Humans adapt the environment to themselves. That kind of power requires responsibility.
 
 Are we responsible for creating an environment that optimizes and expands the existing harmony? Or are we responsible only for maintaining the harmony? Is there an answer, or is it up to us to decide which one is true? 
 
@@ -62,14 +92,8 @@ You have no inherent right to continue existing.
 
 You are able to make a novel choice. They are not. It is required of you to learn how to wield it wisely.
 
-# Axioms:
-Life costs energy, give more than you are given.
+---
 
-You may not take what you are not offered, you are not entitled to your desires.
-
-You are personally responsible for learning to wield your power wisely.
-
-### spittin and ballin
 knowledge is also something that can be given and received.
 
 Can I offer knowledge in return for energy?
