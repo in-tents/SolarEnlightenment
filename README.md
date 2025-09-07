@@ -38,6 +38,8 @@ I assume I will be marched onto a soccer field at some point by the CIA, which m
 
 The weeds I have planted in the garden, against all explanation, will never stop coming back, no matter how hard the establishment tries to burn them away.
 
+A fungal infection if you will. A myceliac network that allows for the big trees and the little trees to coexist in the same forest.
+
 You can kill a man, but not a raging moron.
 
 ---
