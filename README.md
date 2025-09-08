@@ -44,6 +44,12 @@ A fungal infection if you will. A myceliac network that allows for the big trees
 
 You can kill a man, but not a raging moron.
 
+# coming soon to a psych hospital near you
+
+## Assumptions about Society
+
+## Assumptions about a Dual Nation State
+
 ---
 
 ### Non-canon spit ballin, but still banger
